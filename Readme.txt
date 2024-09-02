@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+Proyecto 1 - Landing Page
+Ian Daniel López Ríos
 
 Template Name: Bootslander
 Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
